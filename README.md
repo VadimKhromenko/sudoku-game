@@ -12,3 +12,6 @@ Sudoku is a classic puzzle game that requires players to fill a 9x9 grid with di
 * JavaScript
 * HTML
 * CSS
+
+## Screenshot
+![sudoku](https://user-images.githubusercontent.com/104720569/231864281-04c1d83c-bc47-470c-9a0c-81b19cf2e43d.png)
